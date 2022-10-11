@@ -8,3 +8,10 @@ def factorial(n):
 def squareroot(n):
 	return n**0.5
 
+
+def count_down(n):
+  c = 0
+  while(n>=c):
+    print(n)
+    n = n -1
+  
