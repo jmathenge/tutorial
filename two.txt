@@ -4,3 +4,7 @@ def factorial(n):
   else:
   return n*factorial(n-1)
   
+
+def squareroot(n):
+	return n**0.5
+
